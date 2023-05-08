@@ -1,7 +1,7 @@
-[![MasterHead](https://tenor.com/view/coding-gif-25731151)]
+[![MasterHead](https://github.com/aashuvardhan/drumkit/blob/master/wallpaper.gif)]
 <h1 align="center">Hi 👋, I'm Yash Vardhan</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24090007">
+<img align="right" alt="Coding" width="400" src="https://github.com/aashuvardhan/drumkit/blob/master/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashuvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="aashuvardhan" /> </p>
 
