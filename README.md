@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eryash0401@gmail.com**
 
-- 📄 Know about my experiences: [https://tinyurl.com/mvhvfutu]
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1KBY11XyEAKoEYRa1lZQlB2VgwYFT58s4/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
