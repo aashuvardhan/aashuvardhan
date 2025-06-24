@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eryash0401@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1u0MZ9aEMd_kJGGupHNEbh3CwAFijLyD5/view?usp=sharing]
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1Pdc33ZgRUqdLZMetXtMIS7uZr3o1JI9R/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
