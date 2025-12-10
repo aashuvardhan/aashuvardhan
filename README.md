@@ -1,4 +1,4 @@
-<img src="https://github.com/aashuvardhan/drumkit/blob/master/wallpaper.gif" alt="MasterHead" width="100%" height="20px"/>
+<img src="https://github.com/aashuvardhan/drumkit/blob/master/wallpaper.gif" alt="MasterHead" width="100%" height="50px"/>
 
 <h1 align="center">Hi 👋, I'm Yash Vardhan</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
