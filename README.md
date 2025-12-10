@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashuvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="aashuvardhan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aashuvardhan](https://github.com/aashuvardhan)
+- 👨‍💻 Visit my Portfolio website at [https://portfolio-gamma-weld-l2zsz4ai1c.vercel.app/]
 
 - 💬 Ask me about **ReactJs, Python, DSA, Flask, Data Science, Oracle SQL, PostgreSQL, PL/SQL, MongoDB**
 
